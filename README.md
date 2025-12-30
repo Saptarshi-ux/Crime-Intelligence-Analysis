@@ -4,7 +4,7 @@ This repository contains the final 2024 Crime Intelligence Dashboard for the Gre
 
 ---
 
-## 📊 Executive Summary
+## Executive Summary
 
 This dashboard synthesizes spatial and temporal crime data to identify hotspots, seasonal trends, and operational efficiency. Key findings and recommendations include:
 
@@ -17,7 +17,7 @@ Overall, Monday emerges as the busiest crime day across categories. Nightclub an
 
 ---
 
-## 🚀 Recommendations
+## Recommendations
 
 1. **Targeted Patrols & Resource Allocation**  
    - Enhance late‑night patrols at nightclubs and parking areas, especially on Mondays and Fridays.  
@@ -33,7 +33,7 @@ Overall, Monday emerges as the busiest crime day across categories. Nightclub an
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 - `CrimeDataCaseStudy.csv` – Raw crime incident data (4,225 records)  
 - `PowerBI_Dashboard.pbix` – Power BI report file  
@@ -42,11 +42,11 @@ Overall, Monday emerges as the busiest crime day across categories. Nightclub an
 
 ---
 
-## 📖 Relevance for Indian Police
+## Relevance for Indian Police
 
 Implementing data‑driven crime‑intelligence practices in India can empower law enforcement with proactive hotspot identification and optimized resource deployment—crucial for effective urban policing.
 
 ---
 
-*© 2025 Greater Manchester Police | Dashboard developed by Saptarshi Bandyopadhyay*
+*© 2025 Dashboard developed by Saptarshi Bandyopadhyay*
 
