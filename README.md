@@ -2,7 +2,8 @@
 
 This repository contains the final 2024 Crime Intelligence Dashboard for the Greater Manchester Police Department, built with Power BI. It provides interactive insights into crime patterns by category, location, time, and investigative efficiency.
 
----
+<img width="1672" height="822" alt="image" src="https://github.com/user-attachments/assets/7c132219-588f-4fdb-8b30-397ec2ead1e5" />
+
 
 ## Executive Summary
 
