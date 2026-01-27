@@ -47,6 +47,8 @@ Overall, Monday emerges as the busiest crime day across categories. Nightclub an
 
 Implementing data‑driven crime‑intelligence practices in India can empower law enforcement with proactive hotspot identification and optimized resource deployment—crucial for effective urban policing.
 
+### Please utilize my YouTube video link from Ivy Professional School to watch a thorough video on how I built this dashboard with AI integration:
+* https://youtu.be/sVXjAIa7YBs?si=yalXEyJZFXxSbJDs
 ---
 
 *© 2025 Dashboard developed by Saptarshi Bandyopadhyay*
